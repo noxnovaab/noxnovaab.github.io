@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.centered-content {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    color: #F3F0DD;
+    font-size: 36px;
+}
+
+a {
+    color: #FFEA00;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 28px;
+    }
+     a {
+        font-size: 16px;
+    }
+}
