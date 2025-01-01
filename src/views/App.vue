@@ -15,7 +15,7 @@ useLenis();
   <HeaderSection />
   <main class="bg-gray-950">
     <LogoWithArrowLine />
-    <IntroSection media-background="/media/intro.mp4" poster="/media/noxnova-poster.webp"/>
+    <IntroSection media-background="/media/intro.mp4" poster="/media/noxnova-poster.webp" />
     <MediaScrollSection
       background-media="/media/shutterstock_27728251.mp4"
       media="/media/shutterstock_4078870.mp4"
@@ -47,11 +47,11 @@ useLenis();
       text="We’re here. Let’s make some cosmic shit happen."
       background-media="/media/shutterstock_1097827033.mp4"
     />
-    <BottomSection media-background="/media/shutterstock_1023815239.mp4"/>
+    <BottomSection media-background="/media/shutterstock_1023815239.mp4" />
   </main>
   <FooterSection
-    discord="#"
-    linked-in="#"
-    instagram="#"
+    discord="https://discord.gg/ty2Rz9NkVu"
+    linked-in="https://www.linkedin.com/company/nox-nova/"
+    instagram="https://www.instagram.com/noxnovaab"
   />
 </template>
