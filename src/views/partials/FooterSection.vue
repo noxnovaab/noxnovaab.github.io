@@ -78,7 +78,7 @@ function goToTop() {
           Join our Discord community to get the latest news, updates, and exclusive insights.
         </p>
       </div>
-      <FooterSoMe class="md:hidden" />
+      <FooterSoMe class="md:hidden" :linked-in="linkedIn" :instagram="instagram" />
     </div>
     <FooterCopyright class="md:hidden" />
   </footer>
