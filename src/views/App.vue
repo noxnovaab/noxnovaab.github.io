@@ -17,8 +17,8 @@ useLenis();
     <LogoWithArrowLine />
     <IntroSection media-background="/media/intro.mp4" poster="/media/noxnova-poster.webp" />
     <MediaScrollSection
-      background-media="/media/shutterstock_27728251.mp4"
-      media="/media/shutterstock_4078870.mp4"
+      background-media="/media/car_ride.mp4"
+      media="/media/traffic.mp4"
       text="Tilt your head up and gaze at the night sky. Expanding volume and trillions of possibilities."
       heading="Look up."
       :highlighted-words="['up.']"
@@ -30,11 +30,11 @@ useLenis();
       :highlighted-words="['every']"
       text="Think of us as space cowboys. We do bold and brave work. But with a humble touch. We are dead serious about our missions."
       second-text="Ourselves, though. Not so much."
-      background-media="/media/shutterstock_1039717841.mp4"
+      background-media="/media/moon.mp4"
     />
     <MediaScrollSection
-      background-media="/media/6131265_ShinyWomanUvPurple_By_Brad_Day_Artlist_HD.mp4"
-      media="/media/79d2-444d-b609-17065903d5eb.mp4"
+      background-media="/media/shiny_woman.mp4"
+      media="/media/wavy_shape.mp4"
       text="That’s our core. Powered by competence, we seek to challenge the ordinary way."
       heading="We are specialists."
       :highlighted-words="['specialists.']"
@@ -45,9 +45,9 @@ useLenis();
       :large-words="['We', 'dream', 'big,']"
       :highlighted-words="['big,', 'like', 'humans', 'do.']"
       text="We’re here. Let’s make some cosmic shit happen."
-      background-media="/media/shutterstock_1097827033.mp4"
+      background-media="/media/wave.mp4"
     />
-    <BottomSection media-background="/media/shutterstock_1023815239.mp4" />
+    <BottomSection media-background="/media/reflex.mp4" />
   </main>
   <FooterSection
     discord="https://discord.gg/ty2Rz9NkVu"
