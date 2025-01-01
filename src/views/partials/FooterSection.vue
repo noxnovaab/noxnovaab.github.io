@@ -69,7 +69,10 @@ function goToTop() {
       </div>
       <div class="mb-6 space-y-3">
         <h2 class="text-4.5xl/none font-condensed-medium text-gray-700">
-          We are <span class="text-stone-100">here!</span>
+          We are
+          <a :href="discord" target="_blank" rel="noopener noreferrer" class="text-stone-100">
+            here!
+          </a>
         </h2>
         <p class="text-base font-condensed text-stone-100">
           Join our Discord community to get the latest news, updates, and exclusive insights.
